@@ -1,0 +1,40 @@
+.container{
+    text-align: center;
+}
+.image1{
+    width: 100px;
+}
+.font{
+font-weight: bolder;
+}
+.container2{
+    text-align: center  ;
+    font-weight: bolder;
+
+     
+}
+.heading{
+    text-align: center;
+}
+.button{
+    
+    text-align: center  ;
+}
+
+.animated{
+    width: 70px;
+}
+
+.image2{
+    width: 100px;
+    margin-left: 100px;
+
+}
+.image3{
+    width: 100px;
+    margin-left: 100px;
+
+}
+h4{
+    display: inline-block;
+}
